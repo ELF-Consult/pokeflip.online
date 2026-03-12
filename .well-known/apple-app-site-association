@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2CP4WM4FC2.be.elfconsult.pokeflip2",
+        "paths": ["/auth/*"]
+      }
+    ]
+  }
+}
